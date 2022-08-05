@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816814324032",
+    "project_id": "firestoregunortaqrupu-ba8be",
+    "storage_bucket": "firestoregunortaqrupu-ba8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816814324032:android:b99684897aac85c847e2a5",
+        "android_client_info": {
+          "package_name": "com.Academy.FirestoreGunortaQrupu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816814324032-u5d0cescfku7e9idajp53aajj162hhjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqwIDm5CjjJCY5xD4X9k2hfdGjUM0oAEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816814324032-u5d0cescfku7e9idajp53aajj162hhjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
